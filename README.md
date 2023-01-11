@@ -12,6 +12,8 @@ I am most proficient in back-end programming, specifically with Java, but I have
 
 I have done volunteer work for the Salt Lake City homeless shelter to design and create brochures for homeless people. This gave me insights into design processes that are transferrable to web design.
 
+https://jeffreydaffern.github.io/JeffreyDaffern/
+
 <!--
 **JeffreyDaffern/JeffreyDaffern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
